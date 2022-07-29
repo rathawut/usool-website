@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusool_website=self.webpackChunkusool_website||[]).push([[1475],{8928:e=>{e.exports=JSON.parse('{"permalink":"/tags/\u0e04\u0e27\u0e32\u0e21\u0e1a\u0e23\u0e34\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e4c\u0e43\u0e08","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

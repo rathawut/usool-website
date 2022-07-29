@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusool_website=self.webpackChunkusool_website||[]).push([[8454],{678:s=>{s.exports=JSON.parse('{"label":"\u0e04\u0e27\u0e32\u0e21\u0e1a\u0e23\u0e34\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e4c\u0e43\u0e08","permalink":"/tags/\u0e04\u0e27\u0e32\u0e21\u0e1a\u0e23\u0e34\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e4c\u0e43\u0e08","allTagsPath":"/tags","count":1}')}}]);
