@@ -31,11 +31,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/rathawut/usool-website',
+          editUrl: 'https://github.com/rathawut/usool-website/blob/master',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/rathawut/usool-website',
+          editUrl: 'https://github.com/rathawut/usool-website/blob/master',
           routeBasePath: '/',
         },
         theme: {
